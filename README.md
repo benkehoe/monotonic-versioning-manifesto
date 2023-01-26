@@ -1,5 +1,7 @@
 # Monotonic Versioning Manifesto 1.2
 
+*Note: This is a copy of [the original](http://blog.appliedcompscilab.com/monotonic_versioning_manifesto/), which has since gone offline. [Wayback machine snapshot here.](https://web.archive.org/web/20210208173000/http://blog.appliedcompscilab.com/monotonic_versioning_manifesto/)*
+
 ## Summary
 A version is composed to two numbers: `COMPATIBILITY.RELEASE` where
 
@@ -48,7 +50,7 @@ Such a change is NOT a backwards breaking change if it is bringing the API in al
 I'm leaning towards MonoVer, however MVer is a possibility as well as MoVer.
 
 ## Visualization
-[@asthasr](https://twitter.com/asthasr) created an example flow here (TODO).
+[@asthasr](https://twitter.com/asthasr) created an example flow here (TODO: original unavailable).
 
 * Colored arrows are compatibility
 * Solid gray arrows are chronology
@@ -64,5 +66,3 @@ This work is licensed under the Creative Commons Attribution 3.0 Unported Licens
 Author: orbitz
 
 Updated: 2016-06-25 Sat 16:58
-
-Original: https://web.archive.org/web/20210208173000/http://blog.appliedcompscilab.com/monotonic_versioning_manifesto/
