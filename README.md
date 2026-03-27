@@ -5,8 +5,9 @@
 ## Summary
 A version is composed to two numbers: `COMPATIBILITY.RELEASE` where
 
-`COMPATIBILITY` - a number representing the line of compatibility of the release.
-`RELEASE` - the release number, always increasing.
+* `COMPATIBILITY` - a number representing the line of compatibility of the release.
+* `RELEASE` - the release number, always increasing.
+
 Additional metadata can be added with `+` followed by dot separated, non-empty, identifiers after the `RELEASE` number.
 
 For compatibility with Semantic Versioning, a `.0` may come after the `RELEASE` number.
